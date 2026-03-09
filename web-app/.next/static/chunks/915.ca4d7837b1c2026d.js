@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[915],{3915:(p,e,s)=>{s.d(e,{getApps:()=>a.Dk,initializeApp:()=>a.Wp});var a=s(1055);(0,a.KO)("firebase","12.10.0","app")}}]);

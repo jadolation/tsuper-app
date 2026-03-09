@@ -3,3 +3,6 @@ package-lock.json
 package.json
 README.md
 app.json
+next.config.js
+tsconfig.json
+node_modules/
